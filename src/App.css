@@ -14,7 +14,6 @@ body {
   min-height: 100vh;
 }
 
-/* ================= SIDEBAR ================= */
 
 .sidebar {
   width: 320px;
@@ -117,7 +116,7 @@ body {
   font-size: 15px;
 }
 
-/* ================= MAIN CARD ================= */
+
 
 .main-card {
   flex: 1;
@@ -134,7 +133,6 @@ body {
   margin-bottom: 25px;
 }
 
-/* ================= PROGRESS BAR ================= */
 
 .progress-section {
   margin-bottom: 30px;
@@ -170,7 +168,7 @@ body {
   transition: .4s;
 }
 
-/* ================= FORM ================= */
+
 
 .form {
   margin-top: 25px;
@@ -230,8 +228,6 @@ body {
   margin-top: -12px;
   margin-bottom: 12px;
 }
-/* ================= BUTTONS ================= */
-
 .button-row {
   display: flex;
   justify-content: space-between;
@@ -286,8 +282,6 @@ body {
   box-shadow: none;
 }
 
-/* ================= REVIEW CARD ================= */
-
 .review-card {
   margin-top: 20px;
   background: #fafaff;
@@ -330,7 +324,6 @@ body {
   color: #333;
 }
 
-/* ================= SECURITY BOX ================= */
 
 .security-box {
   margin-top: 35px;
@@ -342,7 +335,6 @@ body {
   font-size: 15px;
 }
 
-/* ================= SUCCESS PAGE ================= */
 
 .success-page {
   min-height: 100vh;
@@ -392,7 +384,7 @@ body {
   margin-bottom: 30px;
 }
 
-/* ================= RESPONSIVE ================= */
+
 
 @media (max-width: 900px) {
 
